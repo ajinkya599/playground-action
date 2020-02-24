@@ -1,0 +1,24 @@
+{
+  "name": "playground-action",
+  "version": "1.0.0",
+  "description": "An action to play with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkya599/playground-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkya599/playground-action/issues"
+  },
+  "homepage": "https://github.com/ajinkya599/playground-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.2",
+    "@actions/github": "^2.1.1"
+  }
+}
